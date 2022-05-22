@@ -1,6 +1,9 @@
-# Hi there, welcome to my profile! 👋
+# Hi there, welcome to my profile! 👋🏿 
 
-My name is Andrew Plummer. I'm an Ottawa-based researcher working with the Bank of Canada's Climate Analysis Team 🌲 
+My name is Andrew Plummer. I am...
+- 🌲 a research assistant with the Bank of Canada's Climate Analysis Team  
+- 💰 a graduate of the University of Toronto's undergraduate economics program
+- 🧮 a data analyst and machine learning expert
 
 ## Recent Professional Accomplishments 🤓 
 
