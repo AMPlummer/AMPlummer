@@ -5,13 +5,13 @@ My name is Andrew Plummer. I am...
 - 💰 a graduate of the University of Toronto's undergraduate economics program
 - 🧮 a data analyst and machine learning expert
 
-## Recent Professional Accomplishments 🤓 
+# Recent Professional Accomplishments 🤓 
 
 - 📈 Used Python to forecast expected credit losses across various loan portfolio under severe, but plausible, climate scenarios as part of a larger project to analyze the systemic risks from transitioning to a low-carbon economy  
 - 🏠 Used Python to develop a machine learning model to estimate Canadian house prices as part of a larger work to understand the risks that a warming climate poses to Canada's housing sector 
 - 🏦 Used Microsoft Excel/VBA to develop a dashboard that shows several risk metrics for wholesale loans portfolios. This dashboard is currently used in the risk departments of some of the largest financial institutions in Canada   
 
-## Latest Medium Articles ✍🏿 
+# Latest Medium Articles ✍🏿 
  
 <!-- BLOG-POST-LIST:START -->
 - [Minimalism Is Not About Getting Rid of Stuff](https://medium.com/alpha-beta-blog/minimalism-is-not-about-getting-rid-of-stuff-5b186e32e49f?source=rss-d48ce7eecfaa------2)
