@@ -14,10 +14,10 @@ My name is Andrew Plummer. I am...
 # Latest Medium Articles ✍🏿 
  
 <!-- BLOG-POST-LIST:START -->
+- [My Last Investment Article](https://andrewmplummer.medium.com/my-last-investment-article-696f695280b5?source=rss-d48ce7eecfaa------2)
 - [Minimalism Is Not About Getting Rid of Stuff](https://medium.com/alpha-beta-blog/minimalism-is-not-about-getting-rid-of-stuff-5b186e32e49f?source=rss-d48ce7eecfaa------2)
 - [January Earnings Report](https://medium.com/alpha-beta-blog/january-earnings-report-af7854d1aabf?source=rss-d48ce7eecfaa------2)
 - [When Budget Deficits Don’t Lead to Higher Inflation](https://medium.com/alpha-beta-blog/when-budget-deficits-dont-lead-to-higher-inflation-dccbc48c7223?source=rss-d48ce7eecfaa------2)
 - [It Pays to be Boring](https://medium.com/alpha-beta-blog/it-pays-to-be-boring-cae496a62758?source=rss-d48ce7eecfaa------2)
-- [How Much Money I Make from Writing](https://medium.com/alpha-beta-blog/how-much-money-i-make-from-writing-3ac4fb50257a?source=rss-d48ce7eecfaa------2)
 <!-- BLOG-POST-LIST:END -->
 
