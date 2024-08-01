@@ -14,7 +14,7 @@ My name is Andrew Plummer. I am...
 # Latest Medium Articles ✍🏿 
  
 <!-- BLOG-POST-LIST:START -->
-- [We Finally Know How Income Affects Health](https://andrewmplummer.medium.com/we-finally-know-how-income-affects-health-1e3d379c7a24?source=rss-d48ce7eecfaa------2)
+- [We Finally Know How Income Affects Health](https://medium.com/the-political-prism/we-finally-know-how-income-affects-health-1e3d379c7a24?source=rss-d48ce7eecfaa------2)
 - [The Global Chip Industry Has a Monopoly Problem](https://medium.com/alpha-beta-blog/the-global-chip-industry-has-a-monopoly-problem-0ac11f1be789?source=rss-d48ce7eecfaa------2)
 - [Why Free Trade Didn’t Create World Peace](https://medium.com/alpha-beta-blog/why-free-trade-didnt-create-world-peace-370ddeeab40e?source=rss-d48ce7eecfaa------2)
 - [Do religious people sell more beer?](https://medium.com/alpha-beta-blog/do-religious-people-sell-more-beer-9ebef2cd5805?source=rss-d48ce7eecfaa------2)
