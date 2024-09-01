@@ -2,7 +2,7 @@
 
 My name is Andrew Plummer. I am...
 -  a senior financial data analyst within the Bank of Canada
-- 💰 a graduate from the University of Toronto's undergraduate economics program
+- 💰 an MA in Economics
 - 🧮 a quantitative analyst
 
 # Recent Professional Accomplishments 🤓 
